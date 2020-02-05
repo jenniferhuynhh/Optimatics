@@ -5,3 +5,8 @@ This is an interactive hierarchical sunburst diagram communicating the data prov
 **Motivation:** To support sales team and users by providing a guide to Optimatic's product line. It will help Optimatics present and explain their products. The guide will also help users choose a product given their application, and vice versa. It will be used to assist prospects and existing clients in exploring use cases for Optimizer.
 
 **To run:** python -m http.server
+
+#
+#
+
+![product-guide](https://user-images.githubusercontent.com/60677749/73804077-9256e180-4812-11ea-96be-e77b215c2cbc.PNG)
