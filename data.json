@@ -1,0 +1,119 @@
+{
+    "name": "Optimatics",
+    "children": [
+        {
+        "name": "Infrastructure Planning",
+        "children": [
+            {
+            "name": "Growth Planning",
+            "children": [
+                {"name": "City of Henderson", "size": 3938},
+                {"name": "Coimbatore", "size": 3812},
+                {"name": "City of Bend", "size": 6714},
+                {"name": "Morocco", "size": 743},
+                {"name": "South West Water", "size":5782}
+                ]
+            },
+            {
+            "name": "Renewal Planning",
+            "children": [
+                {"name": "Macau", "size": 7074}
+                ]
+            },
+            {"name": "Flood Mitigation", "size": 4567},
+            {"name": "CIP", "size": 3546},
+            {"name": "Risk & Resilience", "size": 4756},
+            {
+            "name": "Project Packaging & Prioritization",
+            "children": [
+                {"name": "Dayton", "size": 5864}
+                ]
+            }
+          ]
+        },
+        {
+        "name": "Distribution Systems",
+        "children": [
+            {
+            "name": "Growth Planning",
+            "children": [
+                {"name": "City of Henderson", "size": 3938},
+                {"name": "Coimbatore", "size": 3812},
+                {"name": "City of Bend", "size": 6714},
+                {"name": "Morocco", "size": 743},
+                {"name": "South West Water", "size":5782}
+                ]
+            },
+            {
+            "name": "Pressure Management / Leakage Reduction",
+            "children": [
+                {"name": "Scottish Water", "size": 3938},
+                {"name": "Bristol Water", "size": 3812},
+                {"name": "WSSC", "size": 6714}
+                ]
+            },
+            {
+            "name": "Renewal Planning",
+            "children": [
+                {"name": "Macau", "size": 7074}
+                ]
+            },
+            {
+            "name": "Operations",
+            "children": [
+                {"name": "City of Castle Rock", "size": 7074}
+                ]
+            },
+            {"name": "CIP", "size": 17010},
+            {"name": "Risk & Resilience", "size": 5842},
+            {
+            "name": "Project Packaging & Prioritization",
+            "children": [
+                {"name": "Dayton", "size": 2042}
+                ]
+            },
+            {"name": "Water Quality", "size": 1041}
+          ]
+        },
+        {
+        "name": "Collection Systems",
+        "children": [
+            {
+            "name": "Growth Planning",
+            "children": [
+                {"name": "City of Henderson", "size": 3938},
+                {"name": "Coimbatore", "size": 3812},
+                {"name": "City of Bend", "size": 6714},
+                {"name": "Morocco", "size": 743},
+                {"name": "South West Water", "size":5782}
+                ]
+            },
+            {
+            "name": "Renewal Planning",
+            "children": [
+                {"name": "Macau", "size": 7074}
+                ]
+            },
+            {
+            "name": "Operations",
+            "children": [
+                {"name": "City of Castle Rock", "size": 7074}
+                ]
+            },
+            {"name": "Gray VS Green", "size": 9010},
+            {"name": "I/I Reduction", "size": 5842},
+            {"name": "CSO/SSO", "size": 1010},
+            {"name": "Flood Mitigation", "size": 5042},
+            {"name": "CIP", "size": 17010},
+            {"name": "Risk & Resilience", "size": 5842},
+            {
+            "name": "Project Packaging & Prioritization",
+            "children": [
+                {"name": "Dayton", "size": 2042}
+                ]
+            },
+            {"name": "Water Quality", "size": 1041}
+            ]
+        }
+    ]
+}
