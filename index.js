@@ -69,8 +69,8 @@ d3.json('data.json').then(data => {
             .attr("fill-opacity", d => +labelVisible(d.current))
             .attr("transform", d => labelTransform(d.current))
             .text(function (d) {
-                    if(d.data.name.length > 19)
-                        return d.data.name.substring(0,19) + "..";
+                    if(d.data.name.length > 20)
+                        return d.data.name.substring(0,20) + "..";
                     else
                         return d.data.name;
             });
